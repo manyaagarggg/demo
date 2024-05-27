@@ -1,4 +1,4 @@
 # demo
 This is for demo.
 <br>
-Author - Manya
+Author - Manya Garg
